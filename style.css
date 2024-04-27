@@ -321,3 +321,297 @@ div.special
     margin-top: 50px;
     text-align: center;
 }
+@media screen and (max-width:412px)
+{
+    .header
+{
+    width:412px; 
+    height: 50px;
+    background-color:beige;
+}
+.button1
+{
+    width: 70px;
+    height: 30px;
+    margin-top: 9px;
+    margin-left: 330px;
+    background-color: #e3ae01;
+    border-color: #e3ae01;
+    color: white;
+}
+    img.d-block
+    {
+      margin-top: 11px;
+      height: 300px;
+      width: 412px;
+    }
+    #button
+    {
+        margin-top: 260px;
+        color: white;
+        font-size: 30px;
+    }
+    .overlay-text{
+        position: absolute;
+        top: 100px;
+        left: 20px;
+        color: white;
+      }
+      h4.capture
+      {
+        margin-top: 70px;
+        margin-left: 130px;
+      }
+      .text{
+       padding: 0;
+       margin: 0;
+        position: absolute;
+        top: 30px;
+        left: 25px;
+        font-size: xx-small;
+      }    
+      .cont
+      {
+        margin-left: 2px;
+      }
+      .line
+      {
+        margin-top: 260px;
+        margin-left: 85px;
+        color: white;
+        align-items: center;
+        width: 1300px;
+      }
+
+      /* grid image */
+
+.grid
+{
+    margin-top: 10px;
+}
+.img1
+{
+    margin-top: 15px;
+    margin-left: 10px;
+    height: 150px;
+}
+.img2
+{
+    margin-top: -55px;
+    margin-left: 1px;
+    height: 80px;
+}
+.img3
+{
+    margin-top: -65px;
+    margin-left: 115px;
+    height: 150px;
+    width: 128px;
+}
+.img4
+{
+    margin-top: -260px;
+    margin-left: 248px;
+    height: 234px;
+    width: 152px;
+}
+.img5
+{
+    margin-top: -154px;
+    margin-left: 10px;
+    height: 80px;
+    width: 100px;
+}
+
+/* contents with slider */
+
+.testimonial
+{
+    width: 100%;
+    height: 600px;
+}
+.testimonial1
+{
+    width: 190px;
+    height: 520px;
+    float: left;    
+}.testimonial2
+{
+    width: 222px;
+    height: 520px;
+    float: left;
+}
+.test1
+{
+    margin-left: 55px;
+    font-size: xx-small;
+    margin-top: 60px;
+}
+.test2{
+    white-space: pre;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 5px;
+}
+.test-img
+{
+    width: 230px;
+    height: 200px;
+    margin-left: -15px;
+    margin-top: -20px;
+}
+.test-button
+{
+    margin-left: 260px;
+    margin-top: 5px;
+    font-size: 30px;
+}
+#second-button
+{
+    color: black;
+    font-size: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+/* plain image */
+
+.second-img
+{
+    width: 412;
+    height: 300px;
+}
+#second-img
+{
+    width: 100%;
+    height: 300px;
+    margin-top: -330px;
+
+}
+h1.second-img-text
+{
+    text-align: center;
+    font-size: 40px;
+    font-style: bold;
+    color: black;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-left: 130px;
+    position: absolute;
+}
+
+/* .content */
+
+.quote-text
+{
+    text-align: center;
+    margin-top: 250px;
+    font-size: 10px;
+
+}
+button.text-button
+{
+    background-color: black;
+    color: white;
+    font-size: larger;
+}
+/* full slider */
+
+div.scroll-container
+{
+    margin-top: 30px;
+    background-color: black;
+    overflow:auto;
+    white-space: nowrap;
+    padding: 10px;
+
+}
+div.scroll-container img {
+    padding: 10px;
+    height: 300px;
+    width: 200px;
+  }
+    /* content with image */
+
+    div.content
+    {
+      margin-top: -200px;
+    }
+    div.content-left
+    {
+      text-align: center;
+      width: 50%;
+      height: 210px;
+      float: left;
+      margin-top: 130px;
+      font-size:5px;
+      margin-left: -13px;
+    }
+    div.content-right
+    {
+      text-align: center;
+      width: 50%;
+      height: 270px;
+      float: left;
+    }
+   .content-img
+  {
+      height:300px ;
+      width: 200px;
+      margin-left: -30px;
+      margin-top: -290px;
+  }
+  .model1
+  {
+      height:300px ;
+      width: 200px;
+      background-color: rgb(233, 200, 138);
+      margin-left: 200px;
+      margin-top: 230px;
+  }
+  div.content1
+  {
+    margin-top: 60px;
+  }
+  div.content-left1
+  {
+      text-align: center;
+      width: 50%;
+      height: 300px;
+      float: left;
+      margin-left: -800px;
+  }
+  div.content-right1
+  {
+      text-align: center;
+      width: 50%;
+      height: 300px;
+      float: left;
+      margin-top: -190px;
+      margin-left: 217px;
+      font-size:5px;
+  }
+  .content-img1
+  {
+    height:300px ;
+    width: 200px;
+    margin-left: 428px;
+    margin-top: 18px;
+  }
+  .model2
+  {
+      height:300px ;
+      width: 200px;
+      background-color:rgb(208, 203, 223);
+      margin-left: 10px;
+      margin-top: 1px;
+  }
+  div.content-text
+  {
+      text-align: center;
+      margin-top: 130px;
+      font-size: 10px;
+      margin-top: -10px;
+  }
+}
+    
