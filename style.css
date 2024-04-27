@@ -321,7 +321,10 @@ div.special
     margin-top: 50px;
     text-align: center;
 }
-
+div.space
+{
+    height: 50px;
+}
 
 @media screen and (max-width:412px)
 {
@@ -597,7 +600,7 @@ div.scroll-container img {
   {
     height:300px ;
     width: 200px;
-    margin-left: 393px;
+    margin-left: 403px;
     margin-top: 18px;
   }
   .model2
