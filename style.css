@@ -336,7 +336,7 @@ div.special
     width: 70px;
     height: 30px;
     margin-top: 9px;
-    margin-left: 340px;
+    margin-left: 350px;
     background-color: #e3ae01;
     border-color: #e3ae01;
     color: white;
@@ -415,7 +415,7 @@ div.special
     margin-top: -260px;
     margin-left: 248px;
     height: 234px;
-    width: 165px;
+    width: 170px;
 }
 .img5
 {
@@ -459,7 +459,7 @@ div.special
 {
     width: 230px;
     height: 200px;
-    margin-left: -10px;
+    margin-left: 0px;
     margin-top: -20px;
 }
 .test-button
@@ -560,7 +560,7 @@ div.scroll-container img {
   {
       height:300px ;
       width: 200px;
-      margin-left: -40px;
+      margin-left: -50px;
       margin-top: -290px;
   }
   .model1
@@ -597,7 +597,7 @@ div.scroll-container img {
   {
     height:300px ;
     width: 200px;
-    margin-left: 418px;
+    margin-left: 408px;
     margin-top: 18px;
   }
   .model2
